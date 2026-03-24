@@ -23,4 +23,4 @@ c:\Users\limeb\OneDrive\바탕 화면\자바 웹 프로그래밍\화면 캡처 2
 
 "C:\Users\limeb\OneDrive\바탕 화면\자바 웹 프로그래밍\화면 캡처 2026-03-24 220401.png"
 
-file:///C:/Users/limeb/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/%EC%9E%90%EB%B0%94%20%EC%9B%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202026-03-24%20220401.png
+<img width="2880" height="1800" alt="Image" src="https://github.com/user-attachments/assets/f4638d41-dd77-4747-8881-a372d33b1e34" />
