@@ -13,7 +13,7 @@ You can run your application in dev mode that enables live coding using:
 실습2 : HTML 기본및LOL 메인화면개발완료!
 <divalign="center">
 <img src="screenshots/2026-01-26 오전9_51_43.png" width="45%" alt="실습1 화면">
-<img src="screenshots/파일명.png" width="45%" alt="실습2 화면">
+<img src="c:\Users\limeb\OneDrive\바탕 화면\자바 웹 프로그래밍\화면 캡처 2026-03-24 220401.png>"
 </div>
 <br>
 ## 3주차수업내용
