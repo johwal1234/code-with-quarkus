@@ -163,7 +163,16 @@ return Response
 
 // 18p아직 안함
 
-    
+@GET
+@Path("/register_success")
+@Produces(MediaType.TEXT_HTML)
+public Response registerSuccess() {
+InputStream html = getClass()
+.getClassLoader()
+.getResourceAsStream(
+"META-INF/resources/login/register_success.html");
+return Response.ok(html).build();
+}
 
 }
 
