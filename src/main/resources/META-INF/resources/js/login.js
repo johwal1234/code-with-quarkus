@@ -7,3 +7,4 @@ const hashed = await hashPassword(password);
 document.getElementById('password').value = hashed;
 document.getElementById('loginForm').submit();
 }
+
